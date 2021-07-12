@@ -3,7 +3,8 @@ showcase:
   enable: true
   title: "Hello, I’m Christian"
   subtitle: "Front-End Developer"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  description: "I work at <a target='_blank' href='https://career.jsmd-group.com/ueber-uns/'>Jochen Schweizer maydays Group</a>, an Ecommerce company selling indoor and outdoor experiences in Germany. Here I am the product owner for the Jochen Schweizer NOW! app. A new App which focuses on direct bookings. If you are interested this is our <a target='_blank' href='https://now.jochen-schweizer.de/'>landing page</a>."
+
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"

@@ -2,7 +2,7 @@
 showcase:
   enable: true
   title: "Hello, I’m Christian"
-  subtitle: "Front-End Developer"
+  subtitle: "UX-Designer & Productowner"
   description: "I work at <a target='_blank' href='https://career.jsmd-group.com/ueber-uns/'>Jochen Schweizer maydays Group</a>, an Ecommerce company selling indoor and outdoor experiences in Germany. Here I am the product owner for the Jochen Schweizer NOW! app. A new App which focuses on direct bookings. If you are interested this is our <a target='_blank' href='https://now.jochen-schweizer.de/'>landing page</a>."
 
   image:
@@ -14,7 +14,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    URL: "mailto:cweller.aw@gmail.com"
 
   socialLinks:
     - icon: "linkedin"

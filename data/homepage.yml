@@ -62,9 +62,9 @@ about:
     In my free time i am always interested in leaning so i am taking courses at Interaction Design Foundation.
     </p>'
   button:
-    icon: ""
-    btnText: ""
-    URL: "https://www.linkedin.com/company/radity/"
+    icon: 
+    btnText: 
+    URL: 
   image:
     x: "https://raw.githubusercontent.com/c-weller/ux-portfolio/master/content/images/user-picture.png"
     _2x: "https://raw.githubusercontent.com/c-weller/ux-portfolio/master/content/images/user-picture%402x.png"

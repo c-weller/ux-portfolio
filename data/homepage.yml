@@ -63,7 +63,7 @@ about:
     </p>'
   button:
     icon: ""
-    btnText: "About Me"
+    btnText: ""
     URL: "https://www.linkedin.com/company/radity/"
   image:
     x: "https://raw.githubusercontent.com/c-weller/ux-portfolio/master/content/images/user-picture.png"

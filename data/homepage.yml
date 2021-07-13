@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Christian"
   subtitle: "UX-Designer & Productowner"
-  description: "I work at <a target='_blank' href='https://career.jsmd-group.com/ueber-uns/'>Jochen Schweizer maydays Group</a>, an Ecommerce company selling indoor and outdoor experiences in Germany. Here I am the product owner for the Jochen Schweizer NOW! app. A new App which focuses on direct bookings. If you are interested this is our <a target='_blank' href='https://now.jochen-schweizer.de/'>landing page</a>."
+  description: "I work at <a target='_blank' href='https://career.jsmd-group.com/ueber-uns/'>Jochen Schweizer maydays Group</a>, an ecommerce company selling indoor and outdoor experiences in Germany. Here I am product owner for Jochen Schweizer NOW! app. A new app which focuses on direct bookings of those events. This is my current project: <a target='_blank' href='https://now.jochen-schweizer.de/'>Jochen Schweizer NOW!</a>."
 
   image:
     x: "img/showcase/showcase.png"
@@ -52,14 +52,15 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
+    I am a passionated product owner and ux-designer with over 7 years of experiences in different teams an companies.
+    As a product owner i am setting up roadmaps, planning backlogs, working closly with developers and evaluate delivered features. 
+    I'll do everything to help the team stay focused and at the end deliver a great product for our customers.
+    
     </p>
     <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
+    As a ux-designer i developed my skills while working in smaller companies. Teams did't had ux-designers so i had to jump in an do that job as well. 
+    Since then i did user research via remote usability tests, made low fidelity prototypes on miro and tested high fidelty prototypes during ux events like "Usability Testessen".
+    In my free time i am always interested in leaning so i am taking courses at IDF (Interacton Foundation).
     </p>'
   button:
     icon: "icon-smile-fill"
@@ -181,7 +182,7 @@ client_and_work:
 
 # testimonial
 testimonial:
-  enable: true
+  enable: false
   title: "Testimonials"
   items:
     - name: "Daniel Jordan"
@@ -229,7 +230,7 @@ contact:
 
 # newsletter
 newsletter:
-  enable: true
+  enable: false
   title: "Newsletter subscription"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."

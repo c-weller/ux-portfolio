@@ -14,7 +14,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "mailto:cweller.aw@gmail.com"
+    URL: '<a href="mailto:cweller.aw@gmail.com">cweller.aw@gmail.com</a>'
 
   socialLinks:
     - icon: "linkedin"

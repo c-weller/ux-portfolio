@@ -62,7 +62,7 @@ about:
     In my free time i am always interested in leaning so i am taking courses at Interaction Design Foundation.
     </p>'
   button:
-    icon: "icon-smile-fill"
+    icon: ""
     btnText: "About Me"
     URL: "https://www.linkedin.com/company/radity/"
   image:

@@ -51,7 +51,7 @@ showcase:
 about:
   enable: true
   title: "Who am I?"
-  content: '<p class="lead">
+  content: "<p class="lead">
     I am a passionated product owner and ux-designer with over 7 years of experiences in different teams an companies.
     As a product owner i am setting up roadmaps, planning backlogs, working closly with developers and evaluate delivered features.
     I will do everything to help the team stay focused and at the end deliver a great product for our customers.
@@ -61,7 +61,7 @@ about:
     As a ux-designer i developed my skills while working in smaller companies. Teams did't had ux-designers so i had to jump in an do that job as well.
     Since then i did user research via remote usability tests, made low fidelity prototypes on miro and tested high fidelty prototypes during ux events like "Usability Testessen".
     In my free time i am always interested in leaning so i am taking courses at IDF (Interacton Foundation).
-    </p>'
+    </p>"
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"

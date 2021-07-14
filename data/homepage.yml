@@ -88,26 +88,26 @@ experience:
   title: "Experience"
   description: "Over 7+ years of experience working with companies from all over europe. I design & manage digital products to help businesses drive the right KPIs and help them to make their customers happy."
   button:
-    icon: "icon-linkedin-fill"
-    btnText: "Linkedin"
-    URL: "https://www.linkedin.com/company/radity/"
-  button2:
     icon: "icon-profile-fill"
-    btnText: "Download My Resume"
-    URL: "#"
+    btnText: "Download My CV"
+    URL: "https://drive.google.com/file/d/1xrJ-wxs9G4I9EB6AJMGgaDIUt4Z4oYMe/view?usp=sharing"
 
   items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
+    - title: "Productowner App - Jochen Schweizer NOW!"
+      company: "Jochen Schweizer mydays Group"
+      duration: "Feb 2020 - today"
 
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
+    - title: "Productowner Web & App - Spontacts"
+      company: "Jochen Schweizer mydays Group"
+      duration: "Feb 2020 - May 2020"
 
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
+    - title: "Productowner Webshop & UX-Designer"
+      company: "posterXXL GmbH"
+      duration: "Jun 2017 - Feb 2020"
+       
+    - title: "Productmanager App & Web"
+      company: "Shore GmbH"
+      duration: "May 2014 - Apr 2017"
 
 # Client & Work
 client_and_work:

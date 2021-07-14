@@ -52,14 +52,14 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am a passionated product owner and ux-designer with over 7 years of experiences in different teams an companies.
+    I am a passionated product owner and ux-designer.
     As a product owner i am setting up roadmaps, planning backlogs, working closly with developers and evaluate delivered features.
     I will do everything to help the team stay focused and at the end deliver a great product for our customers
     </p>
     <p class="lead">
     As a ux-designer i developed my skills while working in smaller companies. Teams did not had ux-designers so i had to jump in an do that job as well.
     Since then i did user research via remote usability tests, made low fidelity prototypes on miro and tested high fidelty prototypes during ux events like Usability Testessen.
-    In my free time i am always interested in leaning so i am taking courses at IDF Interaction Design Foundation.
+    In my free time i am always interested in leaning so i am taking courses at Interaction Design Foundation.
     </p>'
   button:
     icon: "icon-smile-fill"
@@ -86,8 +86,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
-  button:
+  description: "Over 7 years of experience working with companies from all over europe. I design and manage digital products to help businesses drive the right KPIs and help them to make their customers happy."
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
     URL: "https://www.linkedin.com/company/radity/"
@@ -105,8 +104,8 @@ experience:
       company: "Textic"
       duration: "Apr 2010 - Jan 2011"
 
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
+    - title: "Jr. Product Owner Apps"
+      company: "Shore GmbH"
       duration: "Jun 2009 - Mar 2010"
 
 # Client & Work
